@@ -1,0 +1,102 @@
+body {
+	text-align: center;
+    font-family: helvetica;
+    margin: 0;
+    background-color: #FEF;
+   }
+
+.capa{
+	background-image: url(inicio.jpg);
+	background-size: cover;
+	color: white;
+	background-position: top;
+}
+
+
+.alinhamento{
+	padding: 40px;
+}
+
+.capa h1{
+	font-size: 1.5em;
+	margin: 0;
+	color: white;
+}
+
+h1:hover{
+	color: pink;
+}
+
+.capa p{
+	font-size: 0.8em;
+	margin: 20;
+	color: white;
+}
+
+
+section h2{
+	font-size: 1.0em;
+	margin: 30;
+	color: black;
+}
+
+section p{
+	font-size: 0.8em;
+	margin: 20;
+	color: black;
+}
+
+#ab{
+	width: 80%;
+	height: 80%;
+}
+
+nav a{
+	display: inline-block;
+	padding: 20px 0px;
+	width: 150px;
+	margin: 5px auto;
+	border: 2px solid;
+	border-radius: 6px;
+	text-decoration: none;
+	color: black;
+	text-align: center;
+}
+footer p{
+	font-size: 0.5em;
+	margin: 0;
+	color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
